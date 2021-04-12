@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "295637669356",
+    "project_id": "mobilenotesapp",
+    "storage_bucket": "mobilenotesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295637669356:android:bb180aafda1d739736dcc9",
+        "android_client_info": {
+          "package_name": "com.example.mobilenotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295637669356-fidftiohap4dcn9ok461pfrofurbsina.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxdv6McJdSwTsck9kBoxIzozuW5rgbuHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295637669356-fidftiohap4dcn9ok461pfrofurbsina.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295637669356:android:51c1a81a715c759636dcc9",
+        "android_client_info": {
+          "package_name": "com.example.mobilenotessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295637669356-fidftiohap4dcn9ok461pfrofurbsina.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxdv6McJdSwTsck9kBoxIzozuW5rgbuHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295637669356-fidftiohap4dcn9ok461pfrofurbsina.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
